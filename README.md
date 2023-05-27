@@ -8,27 +8,27 @@ License
 This Python script allows you to scrape the Royal Road website and retrieve the latest chapter of "The Exiled Prince: Reboot" or read other chapters of the novel. It utilizes the sys, requests, and bs4 libraries to accomplish the task.
 Features
 
-    Fetches the latest chapter of "The Exiled Prince: Reboot" from the Royal Road website.
-    Provides an option to read other chapters of the novel.
-    Displays the chapter title, date, and link.
+   Fetches the latest chapter of "The Exiled Prince: Reboot" from the Royal Road website.
+   Provides an option to read other chapters of the novel.
+   Displays the chapter title, date, and link.
 
 Requirements
 
-    Python 3.7 or above
-    requests library: Install using pip install requests
-    bs4 (Beautiful Soup) library: Install using pip install beautifulsoup4
+   Python 3.7 or above
+   requests library: Install using pip install requests
+   bs4 (Beautiful Soup) library: Install using pip install beautifulsoup4
 
 Usage
 
-    Clone the repository or download the script directly.
+   Clone the repository or download the script directly.
 
-    Install the required libraries by running the following command:
+   Install the required libraries by running the following command:
 
-pip install requests beautifulsoup4
+    pip install requests beautifulsoup4
 
-Run the script:
+   Run the script:
 
-python Exiled-scraper.py
+    python Exiled-scraper.py
 
 Disclaimer
 
